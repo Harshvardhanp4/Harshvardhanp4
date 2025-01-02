@@ -17,7 +17,7 @@
 <h2 align="left">👨‍💻 About Me</h2>
 <ul>
   <li>💻 A dedicated developer with a knack for crafting clean and efficient solutions.</li>
-  <li>🌱 Currently enhancing my skills in Full-Stack Development and AI technologies.</li>
+  <li>🌱 Currently enhancing my skills in Dsa,Full Stack Development,Web Development.</li>
   <li>🎯 Focused on creating impactful projects and learning new tools.</li>
 </ul>
 
