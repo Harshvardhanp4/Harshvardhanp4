@@ -8,7 +8,7 @@
 ## 📊 GitHub Stats  
 
 ![Harshvardhan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Harshvardhanp4&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Harshvardhanp4&langs_count=5&hide=java,python&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Harshvardhanp4&langs_count=5&hide=jupyter%20notebook,java,python&layout=compact&theme=radical)
 
 ---
 
